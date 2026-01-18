@@ -1,0 +1,9 @@
+Avatar,2026-01-19,08:30,Normal,0
+Jurassic World (3D),2026-01-19,10:30,3D,300.0
+Neera,2026-01-19,12:30,Normal,0
+The Bat Man (3D),2026-01-19,16:00,3D,300.0
+Ayu,2026-01-19,19:00,Normal,0
+Aquaman,2026-01-20,08:30,3D,300.0
+Neera,2026-01-20,10:30,Normal,0
+Jurassic World,2026-01-20,12:30,3D,300.0
+Avatar,2026-01-20,16:00,Normal,0
